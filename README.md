@@ -2,7 +2,6 @@
 
 > I build scalable backend systems and real-world web applications.
 
-🎓 3rd Year B.Tech CSE  
 🚀 Full Stack Developer  
 🧠 Focused on system design & backend engineering  
 🇮🇳 India  
